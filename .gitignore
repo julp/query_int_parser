@@ -1,0 +1,10 @@
+*.a
+*.cmake
+*.o
+*.so
+
+Makefile
+CMakeFiles
+CMakeCache.txt
+query_int_parser
+install_manifest.txt
